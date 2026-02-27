@@ -48,15 +48,19 @@ pillow
 └── README.md          # Documentation
 
 ⚙️ Installation & Setup
+
 1️⃣ Install Dependencies
 pip install -r requirements.txt
+
 2️⃣ Configure Environment Variables
 
 Create a .env file in the root directory:
 
 GOOGLE_API_KEY=your_api_key_here
+
 3️⃣ Run the Application
 python -m streamlit run app.py
+
 🧪 How It Works
 
 User uploads an image of a structure
